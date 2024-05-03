@@ -5,6 +5,14 @@
 - `curl` and `unzip` installed on your system
 - Write access to the installation directory
 
+## Automatic Instalation
+This method requires that [.gitbash](https://github.com/sergio-rodrigues/.git_bash) is installed first:
+
+To install the script, just execute:
+```bash
+git_bash_manager install .git_software
+```
+
 ## Manual Instalation
 1. **Download Archive**
 
